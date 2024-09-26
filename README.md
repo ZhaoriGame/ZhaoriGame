@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhaoriGame
-- 📫 How to reach me 634901355@qq.com
-- 呃
+- 📫 How to reach me zhaorigame@outlook.com
+
 
 <!---
 ZhaoriGame/ZhaoriGame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
